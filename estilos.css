@@ -1,0 +1,27 @@
+
+div.divBotones{
+
+    width: 350px;
+    background-color: red;
+    height: 50px;
+    background-color: #9e9e9e !important;
+    margin-left: 620px;
+}
+
+div.divBoton{
+
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+div.principal{
+    width: 1850px;
+    height: 800px;
+    margin-left: 10px;
+    
+}
+
+h1#titulo{
+    margin-left: 600px;
+}
